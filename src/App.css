@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
+.header{
+  background-color: brown;
+}
+.followers-column{
+  background-color: grey;
+  width: 500px;
+  height: 800px;
+}
+.suggest-box{
+  height: 400px;
+  width: 400px;
+  background-color: blue;
+}
+
+.feed{
+  background-color: white;
+  width: 500px;
+}
